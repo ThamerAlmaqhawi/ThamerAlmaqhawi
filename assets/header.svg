@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="472" viewBox="0 0 1200 472" role="img" aria-label="Thamer Almaqhawi — Code with curiosity. Build with purpose.">
+<style>
+.m{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+.s{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}
+.h{font-family:'Segoe UI Black','Arial Black','Helvetica Neue',Arial,sans-serif;font-weight:900}
+.pulse{animation:pulse 1.6s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+.float{animation:float 5s ease-in-out infinite}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+.blink{animation:blink 1s step-end infinite}
+@keyframes blink{0%{opacity:1}50%{opacity:0}}
+.st{animation-duration:12s;animation-iteration-count:infinite;animation-timing-function:step-end}
+.ty{animation-duration:12s;animation-iteration-count:infinite}
+.l2{animation-name:l2}@keyframes l2{0%{opacity:0}13.33%{opacity:1}}
+.l3{animation-name:l3}@keyframes l3{0%{opacity:0}30.83%{opacity:1}}
+.l4{animation-name:l4}@keyframes l4{0%{opacity:0}54.17%{opacity:1}}
+.o1{animation-name:o1}@keyframes o1{0%{opacity:0}11.67%{opacity:1}}
+.o2{animation-name:o2}@keyframes o2{0%{opacity:0}29.17%{opacity:1}}
+.o3{animation-name:o3}@keyframes o3{0%{opacity:0}52.5%{opacity:1}}
+.c1{animation-name:c1}@keyframes c1{0%{opacity:1}11.67%{opacity:0}}
+.c2{animation-name:c2}@keyframes c2{0%{opacity:1}29.17%{opacity:0}}
+.c3{animation-name:c3}@keyframes c3{0%{opacity:1}52.5%{opacity:0}}
+.t1{animation-name:t1}@keyframes t1{0%{transform:translateX(0)}4.17%{transform:translateX(0);animation-timing-function:steps(6,end)}9.17%,100%{transform:translateX(57.6px)}}
+.t2{animation-name:t2}@keyframes t2{0%{transform:translateX(0)}15.83%{transform:translateX(0);animation-timing-function:steps(13,end)}26.67%,100%{transform:translateX(124.8px)}}
+.t3{animation-name:t3}@keyframes t3{0%{transform:translateX(0)}33.33%{transform:translateX(0);animation-timing-function:steps(20,end)}50%,100%{transform:translateX(192px)}}
+</style>
+<defs>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#fff" fill-opacity=".06"/></pattern>
+<radialGradient id="gb" cx="1020" cy="-40" r="560" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#3B82F6" stop-opacity=".28"/><stop offset="1" stop-color="#3B82F6" stop-opacity="0"/></radialGradient>
+<radialGradient id="gy" cx="80" cy="500" r="460" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#FFD84D" stop-opacity=".14"/><stop offset="1" stop-color="#FFD84D" stop-opacity="0"/></radialGradient>
+<linearGradient id="sh" x1="64" y1="0" x2="612" y2="0" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#ECECE8"/><stop offset=".5" stop-color="#3B82F6"/><stop offset="1" stop-color="#ECECE8"/>
+<animateTransform attributeName="gradientTransform" type="translate" values="-240 0;240 0;-240 0" dur="9s" repeatCount="indefinite"/>
+</linearGradient>
+<clipPath id="card"><rect width="1200" height="472" rx="28"/></clipPath>
+<clipPath id="body"><rect x="681" y="145" width="454" height="254"/></clipPath>
+</defs>
+<g clip-path="url(#card)">
+<rect width="1200" height="472" fill="#0E0E0E"/>
+<rect width="1200" height="472" fill="url(#dots)"/>
+<rect width="1200" height="472" fill="url(#gb)"/>
+<rect width="1200" height="472" fill="url(#gy)"/>
+</g>
+<rect x=".5" y=".5" width="1199" height="471" rx="28" fill="none" stroke="#262626"/>
+
+<rect x="64" y="40" width="254" height="34" rx="17" fill="#171717" stroke="#2E2E2E"/>
+<circle class="pulse" cx="84" cy="57" r="5" fill="#22C55E"/>
+<text class="m" x="98" y="62" font-size="13" fill="#ECECE8" textLength="200" lengthAdjust="spacing">WELCOME, I'M THAMER.</text>
+
+<text class="h" x="64" y="176" font-size="60" fill="#ECECE8" textLength="576" lengthAdjust="spacingAndGlyphs">CODE WITH CURIOSITY.</text>
+<text class="h" x="64" y="246" font-size="60" fill="url(#sh)" textLength="548" lengthAdjust="spacingAndGlyphs">BUILD WITH PURPOSE.</text>
+
+<text class="m" x="64" y="300" font-size="15" fill="#FFD84D" textLength="330" lengthAdjust="spacing">CO-FOUNDER &amp; CTO @ FERNAS</text>
+<text class="s" x="64" y="338" font-size="19" fill="#B5B5AF">Building practical software with clean architectures —</text>
+<text class="s" x="64" y="366" font-size="19" fill="#B5B5AF">backends, algorithms &amp; AI systems that serve people.</text>
+
+<g class="m" font-size="12" fill="#ECECE8">
+<rect x="64" y="398" width="100" height="30" rx="15" fill="#171717" stroke="#333"/><text x="78" y="417" textLength="72" lengthAdjust="spacing">6 VENTURES</text>
+<rect x="174" y="398" width="143" height="30" rx="15" fill="#171717" stroke="#333"/><text x="188" y="417" textLength="115" lengthAdjust="spacing">2 RESEARCH WORKS</text>
+<rect x="327" y="398" width="100" height="30" rx="15" fill="#171717" stroke="#333"/><text x="341" y="417" textLength="72" lengthAdjust="spacing">CS @ KFUPM</text>
+<rect x="437" y="398" width="143" height="30" rx="15" fill="#171717" stroke="#333"/><text x="451" y="417" textLength="115" lengthAdjust="spacing">RIYADH · DHAHRAN</text>
+</g>
+
+<rect x="680" y="104" width="456" height="328" rx="18" fill="#151515" stroke="#2E2E2E"/>
+<path d="M698 104h420a18 18 0 0 1 18 18v22H680v-22a18 18 0 0 1 18-18z" fill="#1C1C1C"/>
+<line x1="680" y1="144" x2="1136" y2="144" stroke="#2E2E2E"/>
+<circle cx="704" cy="124" r="6" fill="#FF5F57"/><circle cx="724" cy="124" r="6" fill="#FEBC2E"/><circle cx="744" cy="124" r="6" fill="#28C840"/>
+<text class="m" x="860" y="129" font-size="13" fill="#8A8A85" text-anchor="middle">thamer@fernas: ~</text>
+
+<g clip-path="url(#body)" class="m" font-size="16">
+<g>
+<text x="708" y="184" fill="#FFD84D">$</text>
+<text x="727.2" y="184" fill="#ECECE8" textLength="57.6" lengthAdjust="spacing">whoami</text>
+<g class="ty t1"><rect x="726" y="166" width="400" height="24" fill="#151515"/><rect class="st c1" x="727.2" y="169" width="9" height="19" fill="#FFD84D"/></g>
+</g>
+<text class="st o1" x="708" y="214" fill="#B5B5AF" textLength="153.6" lengthAdjust="spacing">thamer almaqhawi</text>
+<g class="st l2">
+<text x="708" y="244" fill="#FFD84D">$</text>
+<text x="727.2" y="244" fill="#ECECE8" textLength="124.8" lengthAdjust="spacing">cat focus.txt</text>
+<g class="ty t2"><rect x="726" y="226" width="400" height="24" fill="#151515"/><rect class="st c2" x="727.2" y="229" width="9" height="19" fill="#FFD84D"/></g>
+</g>
+<text class="st o2" x="708" y="274" fill="#93C5FD" textLength="326.4" lengthAdjust="spacing">backends · algorithms · AI systems</text>
+<g class="st l3">
+<text x="708" y="304" fill="#FFD84D">$</text>
+<text x="727.2" y="304" fill="#ECECE8" textLength="192" lengthAdjust="spacing">if (!works) debug();</text>
+<g class="ty t3"><rect x="726" y="286" width="400" height="24" fill="#151515"/><rect class="st c3" x="727.2" y="289" width="9" height="19" fill="#FFD84D"/></g>
+</g>
+<g class="st o3"><text x="708" y="334" fill="#4ADE80">✓</text><text x="727.2" y="334" fill="#B5B5AF" textLength="249.6" lengthAdjust="spacing">works. shipping with purpose.</text></g>
+<g class="st l4"><text x="708" y="364" fill="#FFD84D">$</text><rect class="blink" x="727.2" y="349" width="9" height="19" fill="#FFD84D"/></g>
+</g>
+
+<line x1="680" y1="400" x2="1136" y2="400" stroke="#2E2E2E"/>
+<circle class="pulse" cx="704" cy="416" r="4" fill="#22C55E"/>
+<text class="m" x="716" y="420" font-size="11" fill="#8A8A85" textLength="158" lengthAdjust="spacing">LOGIC ENGINE · ACTIVE</text>
+<text class="m" x="1116" y="420" font-size="11" fill="#8A8A85" text-anchor="end">main · UTF-8</text>
+
+<g transform="translate(1102 92) rotate(8)"><g class="float">
+<rect x="-58" y="-58" width="116" height="116" rx="18" fill="#FFD84D"/>
+<g stroke="#1A1A1A" stroke-width="9" stroke-linecap="round">
+<line x1="0" y1="-30" x2="0" y2="10"/><line x1="-17.3" y1="-20" x2="17.3" y2="0"/><line x1="17.3" y1="-20" x2="-17.3" y2="0"/>
+</g>
+<text class="m" x="0" y="40" font-size="10" fill="#1A1A1A" text-anchor="middle" textLength="86" lengthAdjust="spacing">FERNAS · KFUPM</text>
+</g></g>
+</svg>
