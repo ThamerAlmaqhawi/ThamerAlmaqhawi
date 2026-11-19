@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="472" viewBox="0 0 1200 472" role="img" aria-label="Thamer Almaqhawi — Code with curiosity. Build with purpose.">
 <style>
 .m{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
-.s{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}
 .h{font-family:'Segoe UI Black','Arial Black','Helvetica Neue',Arial,sans-serif;font-weight:900}
 .pulse{animation:pulse 1.6s ease-in-out infinite}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
@@ -43,16 +42,14 @@
 </g>
 <rect x=".5" y=".5" width="1199" height="471" rx="28" fill="none" stroke="#262626"/>
 
-<rect x="64" y="40" width="254" height="34" rx="17" fill="#171717" stroke="#2E2E2E"/>
-<circle class="pulse" cx="84" cy="57" r="5" fill="#22C55E"/>
-<text class="m" x="98" y="62" font-size="13" fill="#ECECE8" textLength="200" lengthAdjust="spacing">WELCOME, I'M THAMER.</text>
+<rect x="64" y="104" width="254" height="34" rx="17" fill="#171717" stroke="#2E2E2E"/>
+<circle class="pulse" cx="84" cy="121" r="5" fill="#22C55E"/>
+<text class="m" x="98" y="126" font-size="13" fill="#ECECE8" textLength="200" lengthAdjust="spacing">WELCOME, I'M THAMER.</text>
 
-<text class="h" x="64" y="176" font-size="60" fill="#ECECE8" textLength="576" lengthAdjust="spacingAndGlyphs">CODE WITH CURIOSITY.</text>
-<text class="h" x="64" y="246" font-size="60" fill="url(#sh)" textLength="548" lengthAdjust="spacingAndGlyphs">BUILD WITH PURPOSE.</text>
+<text class="h" x="64" y="220" font-size="60" fill="#ECECE8" textLength="576" lengthAdjust="spacingAndGlyphs">CODE WITH CURIOSITY.</text>
+<text class="h" x="64" y="290" font-size="60" fill="url(#sh)" textLength="548" lengthAdjust="spacingAndGlyphs">BUILD WITH PURPOSE.</text>
 
-<text class="m" x="64" y="300" font-size="15" fill="#FFD84D" textLength="330" lengthAdjust="spacing">CO-FOUNDER &amp; CTO @ FERNAS</text>
-<text class="s" x="64" y="338" font-size="19" fill="#B5B5AF">Building practical software with clean architectures —</text>
-<text class="s" x="64" y="366" font-size="19" fill="#B5B5AF">backends, algorithms &amp; AI systems that serve people.</text>
+<text class="m" x="64" y="344" font-size="15" fill="#FFD84D" textLength="330" lengthAdjust="spacing">CO-FOUNDER &amp; CTO @ FERNAS</text>
 
 <g class="m" font-size="12" fill="#ECECE8">
 <rect x="64" y="398" width="100" height="30" rx="15" fill="#171717" stroke="#333"/><text x="78" y="417" textLength="72" lengthAdjust="spacing">6 VENTURES</text>
