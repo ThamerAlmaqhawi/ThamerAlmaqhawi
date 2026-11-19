@@ -23,14 +23,6 @@
 
 **Thamer** here — a Computer Science student at **KFUPM** and **Co-Founder & CTO of Fernas**, a venture studio building 6 products and 2 research works.
 
-I enjoy designing **backends**, solving problems with **algorithms**, and exploring how **AI systems** can be applied to real-world problems.
-
-In August 2026 I joined **HungerStation** as a Technology Job Shadowing Intern, where I worked on the backend of an internal office-navigation web app in **Node.js** and presented it to **300+ attendees**, including senior leadership.
-
-On campus I lead the **Development & Growth Committee** at the KFUPM Computer Club. Before university, I founded my school's programming club and guided the team to a **2nd-place** finish in an Academic Teams Competition.
-
-My goal is simple: *code with curiosity, build with purpose,* and ship software that serves people.
-
 <br clear="right" />
 
 <h2 align="center">🧪 What I'm Building</h2>
@@ -97,6 +89,13 @@ My goal is simple: *code with curiosity, build with purpose,* and ship software 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThamerAlmaqhawi&bg_color=1A1A1A&color=ECECE8&title_color=FFD84D&line=3B82F6&point=FFD84D&area=true&area_color=3B82F6&hide_border=true&radius=16&custom_title=Thamer's%20Contribution%20Graph" width="100%" alt="Contribution activity graph" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThamerAlmaqhawi/ThamerAlmaqhawi/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/ThamerAlmaqhawi/ThamerAlmaqhawi/output/snake.svg" alt="Contribution snake animation" />
+  </picture>
 </p>
 
 <p align="center"><sub><code>if (!works) debug();</code> — thanks for stopping by ✌️</sub></p>
