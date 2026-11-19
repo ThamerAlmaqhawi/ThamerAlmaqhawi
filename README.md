@@ -19,7 +19,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<img align="right" width="360" src="./assets/about.svg" alt="const thamer = { role: 'Co-Founder & CTO', studio: 'Fernas', major: 'Computer Science', campus: 'KFUPM' }" />
+<img align="right" width="300" src="./assets/about.svg" alt="const thamer = { role: 'Co-Founder & CTO', studio: 'Fernas', major: 'Computer Science', campus: 'KFUPM' }" />
 
 **Thamer** here — a Computer Science student at **KFUPM** and **Co-Founder & CTO of Fernas**, a venture studio building 6 products and 2 research works.
 
