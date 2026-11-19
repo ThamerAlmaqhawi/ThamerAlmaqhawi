@@ -76,7 +76,7 @@
 <text x="727.2" y="244" fill="#ECECE8" textLength="124.8" lengthAdjust="spacing">cat focus.txt</text>
 <g class="ty t2"><rect x="726" y="226" width="400" height="24" fill="#151515"/><rect class="st c2" x="727.2" y="229" width="9" height="19" fill="#FFD84D"/></g>
 </g>
-<text class="st o2" x="708" y="274" fill="#93C5FD" textLength="326.4" lengthAdjust="spacing">backends · algorithms · AI systems</text>
+<text class="st o2" x="708" y="274" fill="#93C5FD" textLength="400" lengthAdjust="spacingAndGlyphs">post-quantum cryptography · venture building</text>
 <g class="st l3">
 <text x="708" y="304" fill="#FFD84D">$</text>
 <text x="727.2" y="304" fill="#ECECE8" textLength="192" lengthAdjust="spacing">if (!works) debug();</text>
