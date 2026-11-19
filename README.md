@@ -99,11 +99,4 @@ My goal is simple: *code with curiosity, build with purpose,* and ship software 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThamerAlmaqhawi&bg_color=1A1A1A&color=ECECE8&title_color=FFD84D&line=3B82F6&point=FFD84D&area=true&area_color=3B82F6&hide_border=true&radius=16&custom_title=Thamer's%20Contribution%20Graph" width="100%" alt="Contribution activity graph" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThamerAlmaqhawi/ThamerAlmaqhawi/output/snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/ThamerAlmaqhawi/ThamerAlmaqhawi/output/snake.svg" alt="Contribution snake animation" />
-  </picture>
-</p>
-
 <p align="center"><sub><code>if (!works) debug();</code> — thanks for stopping by ✌️</sub></p>
