@@ -6,7 +6,7 @@
 
 <h3>Co-Founder &amp; CTO @ Fernas · Computer Science @ KFUPM</h3>
 
-<a href="https://www.thameralmaqhawi.site"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=3B82F6&center=true&vCenter=true&width=560&lines=Code+with+curiosity.;Build+with+purpose.;Backends+%C2%B7+Algorithms+%C2%B7+AI+Systems;if+(!works)+debug()" alt="Code with curiosity. Build with purpose." /></a>
+<a href="https://www.thameralmaqhawi.site"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=3B82F6&center=true&vCenter=true&width=560&lines=Code+with+curiosity.;Build+with+purpose.;Post-Quantum+Cryptography+%C2%B7+Venture+Building;if+(!works)+debug()" alt="Code with curiosity. Build with purpose." /></a>
 
 <p>Building practical software with clean architectures — and technology that serves communities.</p>
 
@@ -19,11 +19,9 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<img align="right" width="300" src="./assets/about.svg" alt="const thamer = { role: 'Co-Founder & CTO', studio: 'Fernas', major: 'Computer Science', campus: 'KFUPM' }" />
-
-**Thamer** here — a Computer Science student at **KFUPM** and **Co-Founder & CTO of Fernas**, a venture studio building 6 products and 2 research works.
-
-<br clear="right" />
+<p align="center">
+  <img width="380" src="./assets/about.svg" alt="const thamer = { role: 'Co-Founder & CTO', studio: 'Fernas', major: 'Computer Science', campus: 'KFUPM', focus: ['post-quantum cryptography', 'venture building'] }" />
+</p>
 
 <h2 align="center">🧪 What I'm Building</h2>
 
@@ -65,9 +63,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-1A1A1A?style=flat-square" alt="SQL" />
-  <img src="https://img.shields.io/badge/Backend-1A1A1A?style=flat-square" alt="Backend" />
-  <img src="https://img.shields.io/badge/Algorithms-1A1A1A?style=flat-square" alt="Algorithms" />
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-1A1A1A?style=flat-square" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Post--Quantum_Cryptography-1A1A1A?style=flat-square" alt="Post-Quantum Cryptography" />
+  <img src="https://img.shields.io/badge/Venture_Building-1A1A1A?style=flat-square" alt="Venture Building" />
   <img src="https://img.shields.io/badge/Full--Stack-1A1A1A?style=flat-square" alt="Full-Stack" />
 </p>
 
