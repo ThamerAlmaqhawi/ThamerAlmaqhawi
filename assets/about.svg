@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="470" viewBox="0 0 440 470" role="img" aria-label="Logic engine card: const thamer = { role: Co-Founder &amp; CTO, studio: Fernas, major: Computer Science, campus: KFUPM }">
+<style>
+.m{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+.s{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif;font-weight:800}
+.pulse{animation:pulse 1.6s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+.blink{animation:blink 1s step-end infinite}
+@keyframes blink{0%{opacity:1}50%{opacity:0}}
+.q{animation-duration:6s;animation-iteration-count:infinite;animation-timing-function:step-end;opacity:0}
+.a{animation-name:a}@keyframes a{0%{opacity:1}25%{opacity:0}}
+.b{animation-name:b}@keyframes b{0%{opacity:0}25%{opacity:1}50%{opacity:0}}
+.c{animation-name:c}@keyframes c{0%{opacity:0}50%{opacity:1}75%{opacity:0}}
+.d{animation-name:d}@keyframes d{0%{opacity:0}75%{opacity:1}}
+.k{fill:#FFD84D}.p{fill:#93C5FD}.g{fill:#86EFAC}.w{fill:#ECECE8}.f{fill:#60A5FA}.n{fill:#6B6B66}
+</style>
+<rect x=".5" y=".5" width="439" height="469" rx="24" fill="#ECECE8" stroke="#D4D4CE"/>
+<text class="m" x="28" y="44" font-size="13" fill="#1A1A1A" textLength="132" lengthAdjust="spacing">›_ LOGIC ENGINE</text>
+<rect x="330" y="27" width="82" height="24" rx="12" fill="#DBEAFE" stroke="#3B82F6"/>
+<circle class="pulse" cx="345" cy="39" r="4" fill="#2563EB"/>
+<text class="m" x="356" y="43" font-size="11" fill="#2563EB" textLength="43" lengthAdjust="spacing">ACTIVE</text>
+
+<g fill="#FFD84D">
+<rect class="q a" x="23" y="70" width="80" height="36" rx="7"/>
+<rect class="q b" x="105" y="70" width="90" height="36" rx="7"/>
+<rect class="q c" x="197" y="70" width="106" height="36" rx="7"/>
+<rect class="q d" x="305" y="70" width="112" height="36" rx="7"/>
+</g>
+<g class="s" font-size="25" fill="#1A1A1A">
+<text x="28" y="97" textLength="70" lengthAdjust="spacingAndGlyphs">Code.</text>
+<text x="110" y="97" textLength="80" lengthAdjust="spacingAndGlyphs">Build.</text>
+<text x="202" y="97" textLength="96" lengthAdjust="spacingAndGlyphs">Debug.</text>
+<text x="310" y="97" textLength="102" lengthAdjust="spacingAndGlyphs">Repeat.</text>
+</g>
+
+<rect x="20" y="124" width="400" height="326" rx="16" fill="#1A1A1A"/>
+<text class="m" x="40" y="153" font-size="12" fill="#8A8A85">main.ts</text>
+<rect x="346" y="138" width="56" height="22" rx="6" fill="#3B82F6"/>
+<path d="M356 144.5v9l7.5-4.5z" fill="#fff"/>
+<text class="m" x="368" y="153" font-size="11" fill="#fff">Run</text>
+<line x1="20" y1="168" x2="420" y2="168" stroke="#2E2E2E"/>
+
+<g class="m" font-size="14">
+<text y="196"><tspan x="30" class="n" font-size="11">1</tspan></text>
+<text x="56" y="196" textLength="134.4" lengthAdjust="spacing"><tspan class="k">const</tspan><tspan class="w"> thamer = {</tspan></text>
+<text y="220"><tspan x="30" class="n" font-size="11">2</tspan></text>
+<text x="72.8" y="220" textLength="210" lengthAdjust="spacing"><tspan class="p">role</tspan><tspan class="w">: </tspan><tspan class="g">"Co-Founder &amp; CTO"</tspan><tspan class="w">,</tspan></text>
+<text y="244"><tspan x="30" class="n" font-size="11">3</tspan></text>
+<text x="72.8" y="244" textLength="142.8" lengthAdjust="spacing"><tspan class="p">studio</tspan><tspan class="w">: </tspan><tspan class="g">"Fernas"</tspan><tspan class="w">,</tspan></text>
+<text y="268"><tspan x="30" class="n" font-size="11">4</tspan></text>
+<text x="72.8" y="268" textLength="218.4" lengthAdjust="spacing"><tspan class="p">major</tspan><tspan class="w">: </tspan><tspan class="g">"Computer Science"</tspan><tspan class="w">,</tspan></text>
+<text y="292"><tspan x="30" class="n" font-size="11">5</tspan></text>
+<text x="72.8" y="292" textLength="134.4" lengthAdjust="spacing"><tspan class="p">campus</tspan><tspan class="w">: </tspan><tspan class="g">"KFUPM"</tspan><tspan class="w">,</tspan></text>
+<text y="316"><tspan x="30" class="n" font-size="11">6</tspan></text>
+<text x="72.8" y="316" textLength="327.6" lengthAdjust="spacing"><tspan class="p">focus</tspan><tspan class="w">: [</tspan><tspan class="g">"backend"</tspan><tspan class="w">, </tspan><tspan class="g">"algorithms"</tspan><tspan class="w">, </tspan><tspan class="g">"AI"</tspan><tspan class="w">],</tspan></text>
+<text y="340"><tspan x="30" class="n" font-size="11">7</tspan></text>
+<text x="56" y="340" class="w" textLength="16.8" lengthAdjust="spacing">};</text>
+<text y="364"><tspan x="30" class="n" font-size="11">8</tspan></text>
+<text y="388"><tspan x="30" class="n" font-size="11">9</tspan></text>
+<text x="56" y="388" textLength="168" lengthAdjust="spacing"><tspan class="k">if</tspan><tspan class="w"> (!works) </tspan><tspan class="f">debug</tspan><tspan class="w">();</tspan></text>
+<rect class="blink" x="226" y="374" width="8" height="18" fill="#FFD84D"/>
+</g>
+
+<line x1="20" y1="408" x2="420" y2="408" stroke="#2E2E2E"/>
+<g class="m" font-size="12">
+<text class="q a" x="40" y="433" fill="#93C5FD">› compiling ideas…</text>
+<text class="q b" x="40" y="433" fill="#93C5FD">› building systems…</text>
+<text class="q c" x="40" y="433" fill="#FFD84D">› debugging edge cases…</text>
+<text class="q d" x="40" y="433" fill="#86EFAC">✓ all checks passed — repeat</text>
+</g>
+</svg>
