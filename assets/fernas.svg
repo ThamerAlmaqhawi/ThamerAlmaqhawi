@@ -1,41 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Fernas venture studio: LinkU, MenaBonka, KFUPM Masar, Scalendars, Haq (FinTech), research prototype. FernasLabs research: Post-Quantum Computing, exploratory prototype.">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="340" viewBox="0 0 900 340" role="img" aria-label="Fernas venture studio: LinkU, MenaBonka, KFUPM Masar, Scalendars, Haq (FinTech), research prototype. FernasLabs research: Post-Quantum Computing, exploratory prototype.">
 <style>
 .m{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 .s{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}
 .h{font-family:'Segoe UI Black','Arial Black','Helvetica Neue',Arial,sans-serif;font-weight:900}
-.spin{transform-origin:742px 92px;animation:spin 14s linear infinite}
+.spin{transform-origin:500px 86px;animation:spin 14s linear infinite}
 @keyframes spin{to{transform:rotate(360deg)}}
 .pulse{animation:pulse 1.6s ease-in-out infinite}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
 </style>
-<rect width="1200" height="300" rx="28" fill="#FFD84D"/>
+<rect width="900" height="340" rx="28" fill="#FFD84D"/>
 
-<rect x="48" y="40" width="156" height="28" rx="14" fill="none" stroke="#1A1A1A" stroke-width="1.5"/>
-<text class="m" x="64" y="59" font-size="12" fill="#1A1A1A" textLength="124" lengthAdjust="spacing">VENTURE STUDIO</text>
-<text class="h" x="46" y="132" font-size="58" fill="#1A1A1A" textLength="210" lengthAdjust="spacingAndGlyphs">Fernas</text>
-<text class="s" x="48" y="170" font-size="18" fill="#1A1A1A" fill-opacity=".8">Co-Founder &amp; CTO — technical direction, architecture &amp; engineering delivery</text>
+<rect x="40" y="36" width="156" height="28" rx="14" fill="none" stroke="#1A1A1A" stroke-width="1.5"/>
+<text class="m" x="56" y="55" font-size="12" fill="#1A1A1A" textLength="124" lengthAdjust="spacing">VENTURE STUDIO</text>
+<text class="h" x="38" y="126" font-size="58" fill="#1A1A1A" textLength="210" lengthAdjust="spacingAndGlyphs">Fernas</text>
+<text class="s" x="40" y="164" font-size="17" fill="#1A1A1A" fill-opacity=".8">Co-Founder &amp; CTO — leading technical direction,</text>
+<text class="s" x="40" y="188" font-size="17" fill="#1A1A1A" fill-opacity=".8">architecture &amp; engineering delivery.</text>
 
-<g class="spin" stroke="#1A1A1A" stroke-width="12" stroke-linecap="round">
-<line x1="742" y1="56" x2="742" y2="128"/><line x1="710.8" y1="74" x2="773.2" y2="110"/><line x1="773.2" y1="74" x2="710.8" y2="110"/>
+<g class="spin" stroke="#1A1A1A" stroke-width="11" stroke-linecap="round">
+<line x1="500" y1="54" x2="500" y2="118"/><line x1="472.3" y1="70" x2="527.7" y2="102"/><line x1="527.7" y1="70" x2="472.3" y2="102"/>
 </g>
 
 <g class="m" font-size="13">
-<rect x="48" y="196" width="71" height="36" rx="18" fill="#1A1A1A"/><text x="64" y="219" fill="#FFD84D" textLength="39" lengthAdjust="spacing">LinkU</text>
-<rect x="129" y="196" width="102" height="36" rx="18" fill="#1A1A1A"/><text x="145" y="219" fill="#FFD84D" textLength="70" lengthAdjust="spacing">MenaBonka</text>
-<rect x="241" y="196" width="118" height="36" rx="18" fill="#1A1A1A"/><text x="257" y="219" fill="#FFD84D" textLength="86" lengthAdjust="spacing">KFUPM Masar</text>
-<rect x="369" y="196" width="110" height="36" rx="18" fill="#1A1A1A"/><text x="385" y="219" fill="#FFD84D" textLength="78" lengthAdjust="spacing">Scalendars</text>
-<rect x="489" y="196" width="133" height="36" rx="18" fill="#1A1A1A"/><text x="505" y="219" fill="#FFD84D" textLength="101" lengthAdjust="spacing">Haq · FinTech</text>
-<rect x="632" y="196" width="172" height="36" rx="18" fill="none" stroke="#1A1A1A" stroke-width="1.5" stroke-dasharray="5 4"/><text x="648" y="219" fill="#1A1A1A" textLength="140" lengthAdjust="spacing">Research Prototype</text>
+<rect x="40" y="210" width="71" height="36" rx="18" fill="#1A1A1A"/><text x="56" y="233" fill="#FFD84D" textLength="39" lengthAdjust="spacing">LinkU</text>
+<rect x="121" y="210" width="102" height="36" rx="18" fill="#1A1A1A"/><text x="137" y="233" fill="#FFD84D" textLength="70" lengthAdjust="spacing">MenaBonka</text>
+<rect x="233" y="210" width="118" height="36" rx="18" fill="#1A1A1A"/><text x="249" y="233" fill="#FFD84D" textLength="86" lengthAdjust="spacing">KFUPM Masar</text>
+<rect x="361" y="210" width="110" height="36" rx="18" fill="#1A1A1A"/><text x="377" y="233" fill="#FFD84D" textLength="78" lengthAdjust="spacing">Scalendars</text>
+<rect x="40" y="256" width="133" height="36" rx="18" fill="#1A1A1A"/><text x="56" y="279" fill="#FFD84D" textLength="101" lengthAdjust="spacing">Haq · FinTech</text>
+<rect x="183" y="256" width="172" height="36" rx="18" fill="none" stroke="#1A1A1A" stroke-width="1.5" stroke-dasharray="5 4"/><text x="199" y="279" fill="#1A1A1A" textLength="140" lengthAdjust="spacing">Research Prototype</text>
 </g>
-<text class="m" x="48" y="266" font-size="12" fill="#1A1A1A" fill-opacity=".7" textLength="300" lengthAdjust="spacing">6 STUDIO PROJECTS · 2 RESEARCH WORKS</text>
+<text class="m" x="40" y="318" font-size="12" fill="#1A1A1A" fill-opacity=".7" textLength="300" lengthAdjust="spacing">6 STUDIO PROJECTS · 2 RESEARCH WORKS</text>
 
-<rect x="840" y="28" width="332" height="244" rx="20" fill="#1A1A1A"/>
-<circle class="pulse" cx="868" cy="59" r="5" fill="#3B82F6"/>
-<text class="m" x="882" y="64" font-size="12" fill="#FFD84D" textLength="150" lengthAdjust="spacing">FERNASLABS · R&amp;D</text>
-<text class="h" x="866" y="116" font-size="34" fill="#ECECE8" textLength="160" lengthAdjust="spacingAndGlyphs">Research</text>
-<text class="s" x="868" y="146" font-size="15" fill="#A3A39D">Exploring what comes next.</text>
+<rect x="580" y="24" width="296" height="292" rx="20" fill="#1A1A1A"/>
+<circle class="pulse" cx="608" cy="57" r="5" fill="#3B82F6"/>
+<text class="m" x="622" y="62" font-size="12" fill="#FFD84D" textLength="150" lengthAdjust="spacing">FERNASLABS · R&amp;D</text>
+<text class="h" x="606" y="122" font-size="36" fill="#ECECE8" textLength="170" lengthAdjust="spacingAndGlyphs">Research</text>
+<text class="s" x="608" y="154" font-size="15" fill="#A3A39D">Exploring what comes next.</text>
 <g class="m" font-size="13">
-<rect x="866" y="168" width="220" height="34" rx="17" fill="none" stroke="#FFD84D" stroke-width="1.5"/><text x="884" y="190" fill="#FFD84D" textLength="172" lengthAdjust="spacing">Post-Quantum Computing</text>
-<rect x="866" y="212" width="212" height="34" rx="17" fill="none" stroke="#3B82F6" stroke-width="1.5"/><text x="884" y="234" fill="#93C5FD" textLength="164" lengthAdjust="spacing">Exploratory Prototype</text>
+<rect x="606" y="190" width="220" height="36" rx="18" fill="none" stroke="#FFD84D" stroke-width="1.5"/><text x="630" y="213" fill="#FFD84D" textLength="172" lengthAdjust="spacing">Post-Quantum Computing</text>
+<rect x="606" y="238" width="220" height="36" rx="18" fill="none" stroke="#3B82F6" stroke-width="1.5"/><text x="634" y="261" fill="#93C5FD" textLength="164" lengthAdjust="spacing">Exploratory Prototype</text>
 </g>
 </svg>
